@@ -88,6 +88,8 @@ g++ problem1.cpp -o problem1
 - GeeksforGeeks – https://www.geeksforgeeks.org
 - LeetCode / Codeforces practice
 
+📌 You can practice more questions from my github repo "Basic-C++_150_Questions" - https://github.com/A17-glitch/Basic_C-_150_Questions.git
+
 📄 License
 
 This repository is for learning and educational purposes only.
