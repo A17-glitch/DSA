@@ -20,7 +20,7 @@ int main() {
     ans += (reminder * pow);
     pow = pow * 10;
   }
-  cout << "\nThe Binary number of the Decimal number " << copy_decimal_number
+  cout << "\nThe Binary number of the Decimal number" << copy_decimal_number
        << " is: " << ans << endl;
   return 0;
 }
