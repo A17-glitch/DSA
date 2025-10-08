@@ -1,7 +1,9 @@
 /*
 
 Sorting Algorithm : Selection Sort
-Time Complexity : O(n^2)
+Time Complexity : O(n^2) average case
+
+
 Exapmle:
 
 Input: 13 46 24 52 20 9
