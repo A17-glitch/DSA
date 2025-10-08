@@ -15,7 +15,8 @@ bool IsSorted(int arr[], int n) {
   return true;
 }
 int main() {
-
+  // optimal solution
+  // time cpmplexity : O(n)
   // int arr[] = {1,2,2,3,3,4}; //sorted array;
   int arr[] = {1, 2, 1, 3, 4}; // not a sorted array;
   int n = 5;
