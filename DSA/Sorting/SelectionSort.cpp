@@ -1,6 +1,6 @@
 /*
 
-Sorting Algorithm
+Sorting Algorithm : Selection Sort
 Time Complexity : O(n^2)
 Exapmle:
 
