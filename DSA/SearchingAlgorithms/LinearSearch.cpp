@@ -6,8 +6,8 @@ using namespace std;
 
     Use it when:
     - Array is unsorted (also works in sorted array, based on the need)
-    - small data size
-    -you just need a simple approach
+    - Small data size
+    - You just need a simple approach
 
     time complexity : O(n)
     space complexity : O(1)
@@ -50,7 +50,7 @@ int main() {
   int result = LinearSearch(arr, n, key);
 
   if (result < 0)
-    cout << "\nElment not found!\n";
+    cout << "\nElement not found!\n";
   else
-    cout << "\nElement founded at :" << (result + 1) << endl;
+    cout << "\nElement founded at index :" << result << endl;
 }
